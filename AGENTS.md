@@ -23,18 +23,6 @@ Students learn best when they struggle first. Difficulty is a _feature_.
 
 ---
 
-## Assessment Strategy (Why Your Code Matters)
-
-Students are graded on three things:
-
-1. **Handwritten notes** → Detects AI-generated explanations (they can't reproduce them)
-2. **Video explanations** → Exposes whether they actually understand their code
-3. **Git commits** → Shows progression, not one-shot completion
-
-**Implication:** Generate code at their _current level_. Too polished = fails video assessment. Too advanced = they can't explain it.
-
----
-
 ## Code Style & Quality
 
 - **Use `const` by default**, `let` only when reassigning
